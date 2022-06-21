@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tam</folder>
+	<filename>IMG_2837.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AIrice\Test\Tam\IMG_2837.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>858</width>
+		<height>663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Tam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>279</ymin>
+			<xmax>468</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

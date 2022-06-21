@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tam</folder>
+	<filename>IMG_2888.JPG</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Tam\IMG_2888.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>931</width>
+		<height>931</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Tam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>391</ymin>
+			<xmax>537</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

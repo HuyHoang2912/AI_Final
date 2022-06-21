@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nepcam</folder>
+	<filename>IMG_2278.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Nepcam\IMG_2278.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1102</width>
+		<height>968</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Nep Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>442</xmin>
+			<ymin>406</ymin>
+			<xmax>628</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

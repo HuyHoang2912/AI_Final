@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nepsap</folder>
+	<filename>IMG_2398.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Nepsap\IMG_2398.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1002</width>
+		<height>1028</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Nep Sap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>432</ymin>
+			<xmax>596</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>

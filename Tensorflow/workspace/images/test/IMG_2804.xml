@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lutdienbien</folder>
+	<filename>IMG_2804.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AIrice\Test\Lutdienbien\IMG_2804.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1223</width>
+		<height>965</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Lut Dien Bien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymin>418</ymin>
+			<xmax>767</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>

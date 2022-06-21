@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ThomMy</folder>
+	<filename>IMG_2960.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AIrice\Test\ThomMy\IMG_2960.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1021</width>
+		<height>906</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Thom My</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>369</ymin>
+			<xmax>679</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

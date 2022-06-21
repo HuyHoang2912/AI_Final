@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tamthom</folder>
+	<filename>IMG_3019.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Tamthom\IMG_3019.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>673</width>
+		<height>744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Tam Thom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>261</ymin>
+			<xmax>444</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

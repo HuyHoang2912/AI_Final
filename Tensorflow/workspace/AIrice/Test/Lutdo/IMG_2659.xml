@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lutdo</folder>
+	<filename>IMG_2659.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AIrice\Test\Lutdo\IMG_2659.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1192</width>
+		<height>906</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Lut Do</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>381</ymin>
+			<xmax>712</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

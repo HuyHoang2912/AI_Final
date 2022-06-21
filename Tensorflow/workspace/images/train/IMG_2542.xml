@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Luttrang</folder>
+	<filename>IMG_2542.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Luttrang\IMG_2542.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1234</width>
+		<height>1238</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Lut Trang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>518</ymin>
+			<xmax>747</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Longlai</folder>
+	<filename>IMG_3060.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AIrice\Test\Longlai\IMG_3060.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>584</width>
+		<height>713</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Long Lai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>258</ymin>
+			<xmax>400</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

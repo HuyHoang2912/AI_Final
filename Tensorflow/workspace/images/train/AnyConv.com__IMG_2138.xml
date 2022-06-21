@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Huyetrong</folder>
+	<filename>AnyConv.com__IMG_2138.jpg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Huyetrong\AnyConv.com__IMG_2138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>955</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Huyet Rong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>415</ymin>
+			<xmax>612</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

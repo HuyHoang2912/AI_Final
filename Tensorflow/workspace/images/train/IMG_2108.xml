@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lutbac</folder>
+	<filename>IMG_2108.JPG</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Lutbac\IMG_2108.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1105</width>
+		<height>1189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Lut Bac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>528</ymin>
+			<xmax>627</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

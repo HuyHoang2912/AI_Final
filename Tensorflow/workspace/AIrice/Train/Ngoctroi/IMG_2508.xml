@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ngoctroi</folder>
+	<filename>IMG_2508.JPG</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Ngoctroi\IMG_2508.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>774</width>
+		<height>739</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Ngoc Troi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>331</ymin>
+			<xmax>460</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

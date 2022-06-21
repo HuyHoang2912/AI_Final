@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Laisua</folder>
+	<filename>IMG_2242.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Laisua\IMG_2242.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>985</width>
+		<height>752</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Lai Sua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>289</ymin>
+			<xmax>609</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Longlai</folder>
+	<filename>IMG_3082.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Longlai\IMG_3082.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>582</width>
+		<height>663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao Long Lai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>290</ymin>
+			<xmax>386</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

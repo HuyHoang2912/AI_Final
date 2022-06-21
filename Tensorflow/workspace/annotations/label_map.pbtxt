@@ -1,0 +1,60 @@
+item { 
+	name:'Gao lut'
+	id:1
+}
+item { 
+	name:'Gao Huyet Rong'
+	id:2
+}
+item { 
+	name:'Gao Lai Sua'
+	id:3
+}
+item { 
+	name:'Gao Long Lai'
+	id:4
+}
+item { 
+	name:'Gao Lut Bac'
+	id:5
+}
+item { 
+	name:'Gao Lut Dien Bien'
+	id:6
+}
+item { 
+	name:'Gao Lut Do'
+	id:7
+}
+item { 
+	name:'Gao Lut Trang'
+	id:8
+}
+item { 
+	name:'Gao Nep Cam'
+	id:9
+}
+item { 
+	name:'Gao Nep Sap'
+	id:10
+}
+item { 
+	name:'Gao Ngoc Troi'
+	id:11
+}
+item { 
+	name:'Gao Tam'
+	id:12
+}
+item { 
+	name:'Gao Tam Thom'
+	id:13
+}
+item { 
+	name:'Gao Thom Go Cong'
+	id:14
+}
+item { 
+	name:'Gao Thom My'
+	id:15
+}

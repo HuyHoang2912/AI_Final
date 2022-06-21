@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gao-lut</folder>
+	<filename>IMG_2358.jpeg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AIrice\Test\Gao-lut\IMG_2358.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1019</width>
+		<height>1078</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao lut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>461</ymin>
+			<xmax>639</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

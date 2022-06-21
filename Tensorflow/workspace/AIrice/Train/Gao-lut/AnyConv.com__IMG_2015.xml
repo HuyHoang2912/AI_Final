@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gao-lut</folder>
+	<filename>AnyConv.com__IMG_2015.jpg</filename>
+	<path>C:\Users\PC\Desktop\AI\RealTimeObjectDetection\Tensorflow\workspace\AI rice\Train\Gao-lut\AnyConv.com__IMG_2015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>845</width>
+		<height>932</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gao lut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>427</ymin>
+			<xmax>544</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>
